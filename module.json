@@ -1,0 +1,78 @@
+{
+    "name": "kult-divinity-lost-fr",
+    "title": "Kult Divinité Perdue 4ème Édition Traduction Française - Kult Divinity Lost 4th Edition French Translation",
+    "description": "Module de traduction en langue française pour la version Kult Divinity Lost 4th Edition d'astarte-horns sur Foundry VTT<br>French translation module for the Kult Divinity Lost 4th Edition of astarte-horns on Foundry VTT",
+    "version": "3.0.0",
+    "minimumCoreVersion" : "9.255",
+    "compatibleCoreVersion":"9.269",
+    "dependencies":
+	[
+		{
+		"name": "babele"
+		},
+		{
+		"name": "lib-wrapper"
+		},
+		{
+		"name": "kult-divinity-lost",
+		"type": "system"
+		}
+	],
+    "author": "YanK (YanK#8683)",
+    "esmodules": ["babele-register.js"],
+    "scripts": [],
+    "styles": [
+        "css/kult-divinity-lost.css"
+      ],
+    "packs": [
+      {
+      "name": "avantages",
+      "label": "Avantages",
+      "system": "kult-divinity-lost",
+      "module": "kult-divinity-lost-fr",
+      "path": "packs/avantages.db",
+      "entity": "Item"
+    },
+      {
+        "name": "désavantages",
+        "label": "Désavantages",
+        "system": "kult-divinity-lost",
+        "module": "kult-divinity-lost-fr",
+        "path": "packs/desavantages.db",
+        "entity": "Item"
+    },
+    {
+      "name": "sombres-secrets",
+      "label": "Sombres secrets",
+      "system": "kult-divinity-lost",
+      "module": "kult-divinity-lost-fr",
+      "path": "packs/sombres-secrets.db",
+      "entity": "Item"
+    },
+    {
+      "name": "kult-divinity-lost-ost",
+      "label": "Kult Divinity Lost OST",
+      "system": "kult-divinity-lost",
+      "module": "kult-divinity-lost-fr",
+      "path": "packs/kult-divinity-lost-ost.db",
+      "entity": "Playlist"
+    },
+    {
+      "name": "exemples-de-pj",
+      "label": "Exemples de PJ",
+      "system": "kult-divinity-lost",
+      "module": "kult-divinity-lost-fr",
+      "path": "packs/exemples-de-pj.db",
+      "entity": "Actor"
+    }
+    ],
+	"system": ["kult-divinity-lost"],
+    "languages": [{
+      "lang": "fr",
+      "name": "French",
+      "path": "fr.json"
+    }],
+    "url": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr",
+    "manifest": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr/releases/latest/download/module.json",
+    "download": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr/releases/download/v3.0.0/module.zip"
+}

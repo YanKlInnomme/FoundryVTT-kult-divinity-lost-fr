@@ -14,7 +14,7 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
 ## Version 3.0.1
 
- * Mise à jour pour intégration à la bibliothèque officielle de Foundry VTT
+ * Mise à jour pour intégration à la bibliothèque officielle de Foundry VTT (Changement du nom du module pour kultdl-fr)
  
 ## Version 3.0.0
 
@@ -50,7 +50,7 @@ In order to work this module requires the following prerequisites:
 
 ## Version 3.0.1
 
- * Updated for integration into the official Foundry VTT library
+ * Updated for integration into the official Foundry VTT library (Change the name of the module to kultdl-en)
 
 ## Version 3.0.0
 

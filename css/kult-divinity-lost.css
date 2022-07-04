@@ -22,23 +22,7 @@
   text-shadow: 0px 0px 15px #940A0A;
 }
 
-/* #camera-views.camera-size-medium .camera-box-dock {
-  margin-bottom: 75px;
-  margin-left: 5px;
-}
-
-#players {
-  width: 140px;
-} */
-
 #camera-views {
-  width: 100%;
-  margin: 0 0 10px 0;
-  padding: 0;
-  align-items: baseline;
-  z-index: var(--z-index-ui);
-  background: none;
-  border: none;
-  box-shadow: none;
-  pointer-events: none;
+  margin-left: 61px;
+  margin-bottom: 73px;
 }

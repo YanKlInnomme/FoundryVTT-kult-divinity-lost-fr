@@ -14,6 +14,10 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
 
+ ## Version 3.5.1
+
+ * Renommage des fichiers de la bande sonore originale Kult Divinité Perdue (/mp3)
+
 ## Version 3.5.0
 
  * Correctif graphique: Position des Webcams (kult-divinity-lost.css)
@@ -57,6 +61,10 @@ In order to work this module requires the following prerequisites:
  * Tom LaPorta's Kult 4th edition system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+## Version 3.5.1
+
+ * Renaming of the original Kult Divinity Lost soundtrack files (/mp3)
 
 ## Version 3.5.0
 

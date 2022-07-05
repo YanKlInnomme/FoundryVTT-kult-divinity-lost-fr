@@ -5,12 +5,20 @@ Améliorer votre expérience de jeu avec ce module de traduction VF pour la vers
 ![Capture d’écran 2022-05-25 102403](https://user-images.githubusercontent.com/100078854/170216982-7555c171-d6bd-4278-9979-839345d2cc5c.jpg)
 ![Capture d’écran 2022-05-25 102456](https://user-images.githubusercontent.com/100078854/170216996-e424cca4-67af-409a-b2b4-b7a0c9d74876.jpg)
 
+Si vous aimez utiliser mes modules, pensez à me soutenir sur Tipeee (https://fr.tipeee.com/yank/news).
+
 ## Prérequis
 
 Afin de fonctionner ce module nécessite les installations préalables suivantes :
  * Le système Kult Divinity Lost 4th Edition d'astarte-horns
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
+
+## Version 3.5.0
+
+ * Correctif graphique: Position des Webcams (kult-divinity-lost.css)
+ * Correctif de la bande sonore originale Kult Divinité Perdue (kult-divinity-lost-ost.db)
+ * Correctif de traduction (fr.json)
 
 ## Version 3.0.1
 
@@ -41,12 +49,20 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
 Enhance your gaming experience with this VF translation module for the Kult Divinity Lost 4th Edition of astarte-horns for Foundry VTT.
 
+If you like using my modules, consider supporting me on Tipeee (https://fr.tipeee.com/yank/news).
+
 ## Prerequisites
 
 In order to work this module requires the following prerequisites:
  * Tom LaPorta's Kult 4th edition system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+## Version 3.5.0
+
+ * Graphic correction: Webcams position (kult-divinity-lost.css)
+ * Correction of the original soundtrack Kult Divinity Lost (kult-divinity-lost.db)
+ * Translation correction (fr.json)
 
 ## Version 3.0.1
 

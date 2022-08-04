@@ -2,7 +2,7 @@
     "name": "kult-divinity-lost-fr",
     "title": "Kult DP Traduction Française - Kult DL French Translation",
     "description": "Module de traduction en langue française pour la version Kult Divinity Lost 4th Edition d'astarte-horns sur Foundry VTT<br>French translation module for the Kult Divinity Lost 4th Edition of astarte-horns on Foundry VTT",
-    "version": "3.5.1",
+    "version": "4.0.0",
     "minimumCoreVersion" : "9.255",
     "compatibleCoreVersion":"9.269",
     "dependencies":
@@ -64,6 +64,14 @@
       "module": "kult-divinity-lost-fr",
       "path": "packs/exemples-de-pj.db",
       "entity": "Actor"
+    },
+    {
+      "name": "tarot-de-kult",
+      "label": "Tarot de Kult",
+      "system": "kult-divinity-lost",
+      "module": "kult-divinity-lost-fr",
+      "path": "packs/tarot-de-kult.db",
+      "entity": "Cards"
     }
     ],
 	"system": ["kult-divinity-lost"],
@@ -74,5 +82,5 @@
     }],
     "url": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr",
     "manifest": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr/releases/latest/download/module.json",
-    "download": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr/releases/download/v3.5.1/module.zip"
+    "download": "https://github.com/YanKlInnomme/FoundryVTT-kult-divinity-lost-fr/releases/download/v4.0.0/module.zip"
 }

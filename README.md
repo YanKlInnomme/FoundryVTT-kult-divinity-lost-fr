@@ -16,7 +16,7 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
  ## Version 4.0.0
 
- * Correction mineur du compendium "Avantages"
+ * Correction mineure du compendium "Avantages"
  * Ajout du tarot de Kult: Divinité Perdue (68 lames)
 
  ## Version 3.5.1

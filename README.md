@@ -5,7 +5,7 @@ Améliorer votre expérience de jeu avec ce module de traduction VF pour la vers
 ![Capture d’écran 2022-05-25 102403](https://user-images.githubusercontent.com/100078854/170216982-7555c171-d6bd-4278-9979-839345d2cc5c.jpg)
 ![Capture d’écran 2022-05-25 102456](https://user-images.githubusercontent.com/100078854/170216996-e424cca4-67af-409a-b2b4-b7a0c9d74876.jpg)
 
-Vous appréciez ce module, pensez à me soutenir sur ![tipeee_logo_icon_170450](https://user-images.githubusercontent.com/100078854/182960944-0a39a367-7a1f-4857-9c09-ab1d4a882663.png) 🖤
+Vous appréciez ce module, pensez à me soutenir sur Tipeee ! (https://fr.tipeee.com/yank/news) 🖤
 
 ## Prérequis
 
@@ -13,6 +13,11 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
  * Le système Kult Divinity Lost 4th Edition d'astarte-horns
  * Le module Babele (L'indispensable pour faire de la traduction)
  * Le module Lib-wrapper (Requis par Babele)
+
+ ## Version 4.0.0
+
+ * Correction mineur du compendium "Avantages"
+ * Ajout du tarot de Kult: Divinité Perdue (68 lames)
 
  ## Version 3.5.1
 
@@ -53,7 +58,7 @@ Afin de fonctionner ce module nécessite les installations préalables suivantes
 
 Enhance your gaming experience with this VF translation module for the Kult Divinity Lost 4th Edition of astarte-horns for Foundry VTT.
 
-If you like using my modules, consider supporting me on Tipeee (https://fr.tipeee.com/yank/news).
+You like this module, consider supporting me on Tipeee! (https://fr.tipeee.com/yank/news) 🖤
 
 ## Prerequisites
 
@@ -61,6 +66,11 @@ In order to work this module requires the following prerequisites:
  * Tom LaPorta's Kult 4th edition system
  * The Babele module (The essential for translation)
  * The Lib-wrapper module (Required by Babele)
+
+ ## Version 4.0.0
+
+ * Minor correction of the "Advantages" compendium
+ * Addition of the tarot of Kult: Lost Divinity (68 cards)
 
 ## Version 3.5.1
 

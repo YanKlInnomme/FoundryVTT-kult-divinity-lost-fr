@@ -5,7 +5,7 @@ Améliorer votre expérience de jeu avec ce module de traduction VF pour la vers
 ![Capture d’écran 2022-05-25 102403](https://user-images.githubusercontent.com/100078854/170216982-7555c171-d6bd-4278-9979-839345d2cc5c.jpg)
 ![Capture d’écran 2022-05-25 102456](https://user-images.githubusercontent.com/100078854/170216996-e424cca4-67af-409a-b2b4-b7a0c9d74876.jpg)
 
-Vous appréciez ce module, pensez à me soutenir sur ![tipeee_logo_icon_170450](https://fr.tipeee.com/yank/news) 🖤
+Vous appréciez ce module, pensez à me soutenir sur ![tipeee_logo_icon_170450](https://user-images.githubusercontent.com/100078854/182960944-0a39a367-7a1f-4857-9c09-ab1d4a882663.png) 🖤
 
 ## Prérequis
 
